@@ -10,6 +10,7 @@ Material UI Table Edit
 ## Install
 
 `npm i material-ui-table-edit`
+`yarn add material-ui-table-edit`
 
 ## Usage
 
