@@ -42,7 +42,8 @@
   "author": {
     "name": "Michael Matuzak",
     "email": "mmatuzak@gmail.com",
-    "twitter": "@mmatuzak"
+    "twitter": "@mmatuzak",
+    "fork": "MarouaneRag"
   },
   "license": "MIT",
   "bugs": {
